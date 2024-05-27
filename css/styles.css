@@ -2,7 +2,7 @@
     font-family: "Poppins", sans-serif;
 }
 .banner{
-    background-image: url(./images/banner.jpg);
+    background-image: url(/RA-Portfolio/images/banner.jpg);
     background-size: cover;
     padding: 80px;
 }
